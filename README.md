@@ -29,5 +29,5 @@ $ xsltproc -o output.html nmap-bootstrap.xsl input.xml
 
 ## License
 
-The code ìs license under MIT. (nmap-bootstrap-xsl)[https://github.com/honze-net/nmap-bootstrap-xsl] 
+The code ìs license under MIT. [nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl)
 is licensed under Creative Commons BY-SA.
