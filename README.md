@@ -1,7 +1,7 @@
 # Convert nmap XML output to styled HTML
 
 This script converts all nmap XML result files in the directory to HTML
-files styled with (nmap-bootstrap-xsl)[https://github.com/honze-net/nmap-bootstrap-xsl].
+files styled with [nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl).
 
 ## Usage
 
