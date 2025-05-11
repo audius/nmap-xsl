@@ -12,7 +12,7 @@ in pkgs.mkShellNoCC {
   ];
 
   shellHook = ''
-    echo "This script converts all nmap XML result files into HTML files"
+    printf "%s\n" "This script converts all nmap XML result files into HTML files"
 
     export NMAPBOOTSTRAPXSL=${nmapBootstrapXsl}
 
